@@ -9,5 +9,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    target-branch: rhbq/1.11
     ignore:
       - dependency-name: "org.apache.maven.plugins:maven-compiler-plugin"
